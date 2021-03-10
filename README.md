@@ -22,7 +22,17 @@ The crowdsale contract will be tested on the Kovan or Ropsten testnet to get rea
 ---
 # Instructions
 
-Using Remix, create a file called `PupperCoin.sol` and create a standard `ERC20Mintable` 
-[starter code](../Starter-Code/PupperCoin.sol).
+Using Remix, create a file called `PupperCoin.sol` and create a standard `ERC20Mintable` Next open a new file in remix name it `PupperCoinCrowdsale.sol`, and prepare it like a standard crowdsale.
 
-Create a new contract named `PupperCoinCrowdsale.sol`, and prepare it like a standard crowdsale.
+[PupperCoin Starter Code](https://github.com/kary2003/21-You-sure-can-attract-a-crowd/blob/main/PupperCoin.sol).
+
+## Designing the Contracts
+
+### ERC20 PupperCoin Contract
+
+### PupperCoinCrowdsale Contract
+
+
+
+
+
