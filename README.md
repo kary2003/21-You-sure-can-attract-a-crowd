@@ -1,5 +1,7 @@
 # 21-You-sure-can-attract-a-crowd
 
+![image](https://user-images.githubusercontent.com/70820754/110693550-cc787c80-81a4-11eb-9499-397eb2590a62.png)
+
 To fund the network development, the company is going to crowdsale the PupperCoin token. The network will make it possible to trace back a dog’s genealogy by tracking dog breeding activity across the globe.  The Crowdsale will be open to the public for 24 weeks with a goal of 300 Ether, once the goal is met refunds will be issued. 
 
 The ERC20 token will be minted through a Crowdsale Contract using the OpenZeppelin Solidity library.
