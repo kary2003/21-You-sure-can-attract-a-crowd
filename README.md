@@ -42,7 +42,7 @@ Using Remix, create a file called `PupperCoin.sol` and create a standard `ERC20M
 ![MyCrypto Custom Token](https://user-images.githubusercontent.com/70820754/110724214-92be6a80-81d2-11eb-8fe7-cdf2985bec23.gif)
 
 ### MetaMask PupperCoin!
-[PUP Coin MetaMask Details](https://user-images.githubusercontent.com/70820754/110724239-a4a00d80-81d2-11eb-984a-1d5e9423fb04.png)! [PUP Coin MetaMask](https://user-images.githubusercontent.com/70820754/110724249-a964c180-81d2-11eb-8479-7320f0d91104.png)
+![PUP Coin MetaMask Details](https://user-images.githubusercontent.com/70820754/110724239-a4a00d80-81d2-11eb-984a-1d5e9423fb04.png) ![PUP Coin MetaMask](https://user-images.githubusercontent.com/70820754/110724249-a964c180-81d2-11eb-8479-7320f0d91104.png)
 
 
 
