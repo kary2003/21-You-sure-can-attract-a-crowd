@@ -33,8 +33,9 @@ Using Remix, create a file called `PupperCoin.sol` and create a standard `ERC20M
 
 ![PupperCoin](https://user-images.githubusercontent.com/70820754/110724136-715d7e80-81d2-11eb-9cfd-22f191f811bf.gif)
 
-### PupperCoinCrowdsale Contract
+### [PupperCoinCrowdsale Contract Code](https://github.com/kary2003/21-You-sure-can-attract-a-crowd/blob/main/PupperCoinCrowdasle.sol)
 
+![PupperCoinCrowdsale](https://user-images.githubusercontent.com/70820754/110724915-e2516600-81d3-11eb-9fad-0179e23af415.gif)
 
 ### MyCrypto Custom Coin!
 
